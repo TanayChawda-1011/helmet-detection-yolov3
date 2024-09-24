@@ -11,8 +11,6 @@ This is a real-time helmet detection system that utilizes a YOLO model and a cus
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies](#technologies)
-- [Contributing](#contributing)
-- [License](#license)
   
 ## Installation
 
@@ -28,4 +26,14 @@ Make sure you have Python installed (preferably version 3.7).
   ```bash
   cd helmet-detection-system
   ```
+
+## Usage
+Video Input: You can select a video file to run the detection on
+Webcam Input: You can use the live webcam to detect helmets in real-time. Run the following command:
+
+## Technologies
+**YOLOv3**: For object detection.
+**TensorFlow**: For loading the CNN model.
+**OpenCV**: For video processing and GUI handling.
+**Tkinter**: For the simple GUI interface.
    
