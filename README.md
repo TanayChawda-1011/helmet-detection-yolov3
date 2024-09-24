@@ -28,12 +28,12 @@ Make sure you have Python installed (preferably version 3.7).
   ```
 
 ## Usage
-Video Input: You can select a video file to run the detection on
-Webcam Input: You can use the live webcam to detect helmets in real-time. Run the following command:
+**Video Input**: You can select a video file to run the detection on <br/>
+**Webcam Input**: You can use the live webcam to detect helmets in real-time. Run the following command:<br/>
 
 ## Technologies
--**YOLOv3**: For object detection.
--**TensorFlow**: For loading the CNN model.
--**OpenCV**: For video processing and GUI handling.
--**Tkinter**: For the simple GUI interface.
+-**YOLOv3**: For object detection. <br/>
+-**TensorFlow**: For loading the CNN model. <br/>
+-**OpenCV**: For video processing and GUI handling. <br/>
+-**Tkinter**: For the simple GUI interface. <br/>
    
