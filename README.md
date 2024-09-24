@@ -32,8 +32,8 @@ Video Input: You can select a video file to run the detection on
 Webcam Input: You can use the live webcam to detect helmets in real-time. Run the following command:
 
 ## Technologies
-**YOLOv3**: For object detection.
-**TensorFlow**: For loading the CNN model.
-**OpenCV**: For video processing and GUI handling.
-**Tkinter**: For the simple GUI interface.
+-**YOLOv3**: For object detection.
+-**TensorFlow**: For loading the CNN model.
+-**OpenCV**: For video processing and GUI handling.
+-**Tkinter**: For the simple GUI interface.
    
